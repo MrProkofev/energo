@@ -1,4 +1,4 @@
-import "@fontsource-variable/inter";
+import "./assets/css/main.css";
 import React from "react";
 import { router } from "@app/router";
 import { theme } from "@app/theme";

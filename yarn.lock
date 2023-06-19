@@ -447,11 +447,6 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.43.0.tgz#559ca3d9ddbd6bf907ad524320a0d14b85586af0"
   integrity sha512-s2UHCoiXfxMvmfzqoN+vrQ84ahUSYde9qNO1MdxmoEhyHWsfmwOpFlwYV+ePJEVc7gFnATGUi376WowX1N7tFg==
 
-"@fontsource-variable/inter@^5.0.3":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@fontsource-variable/inter/-/inter-5.0.3.tgz#60df2496572ca2d5e783b6f8904472f093041eb5"
-  integrity sha512-AIE1Lm2/cNkCD4oAJ3JVY54tGhlUS7NnAiqGmE045v+7XHqmUhSYjhQNUgnBGcenth4bN75l+KIeTDbcGc7Emw==
-
 "@humanwhocodes/config-array@^0.11.10":
   version "0.11.10"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.10.tgz#5a3ffe32cc9306365fb3fd572596cd602d5e12d2"

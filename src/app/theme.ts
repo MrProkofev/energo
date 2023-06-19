@@ -48,7 +48,7 @@ export const theme = createTheme({
     divider: "#E5E9EF",
   },
   typography: {
-    fontFamily: "Inter Variable",
+    fontFamily: "Lab Grotesque",
     "headers/h1": {
       fontSize: 64,
       fontWeight: 700,
